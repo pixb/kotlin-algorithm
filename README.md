@@ -14,9 +14,8 @@ kotlin algorithm demo.
 - [Fibonacci](./src/main/kotlin/exercises/Fibonacci.kt)
 - [Half Search](./src/main/kotlin/exercises/HalfSearch.kt)
 
-## Test Exercises
+## [Test Exercises](./src/test/kotlin/)
 
 - [Bubble Sort Test](./src/test/kotlin/BubbleSortTest.kt)
 - [Fibonacci Test](./src/test/kotlin/FibonacciTest.kt)
 - [Half Search Test](./src/test/kotlin/HalfSearchTest.kt)
-
